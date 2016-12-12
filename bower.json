@@ -1,0 +1,29 @@
+{
+  "name": "skin-collection",
+  "description": "Shared styles for Material Design elements",
+  "main": "skin-collection.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "element-collection"
+  ],
+  "version": "v0.1-alpha",
+  "homepage": "https://github.com/FabricElements/skin-collection",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Erny Sans",
+      "url": "http://erny.co"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FabricElements/skin-collection.git"
+  },
+  "dependencies": {
+    "skin-styles": "FabricElements/skin-styles",
+    "skin-gradient": "FabricElements/skin-gradient"
+  }
+}
