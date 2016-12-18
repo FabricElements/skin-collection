@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "skin-styles": "FabricElements/skin-styles",
-    "skin-gradient": "FabricElements/skin-gradient"
+    "skin-gradient": "FabricElements/skin-gradient",
+    "skin-icons": "FabricElements/skin-icons"
   }
 }
